@@ -1,4 +1,4 @@
-# analise descritiva de dados
+# Analise descritiva de dados com Python
 
 
  Análise descritiva de dados é um projeto feito durante a minha formação no programa de bacharelado em Ciência de Dados em 2022 na disciplina de Data Mining e tem como objetivo realizar uma  análise estatísticas em uma base de dados usando Python com implementação de técnicas estatísticas para analisar a distribuição de frequência de dados e também técnicas de visualização de dados.
