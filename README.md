@@ -5,6 +5,13 @@
 O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target='_blank'>Creative Commons Attribution 4.0 (CC BY 4.0)</a>,<br/>
 
  Análise descritiva de dados é um projeto desenvolvido durante minhas aula de Mineração de Dados (Data Mining) na Universidade Virtual do Estado de São Paulo, cujo o objetivo é realizar uma  análise estatísticas em uma base de dados usando a línguagem Python aplivando de técnicas estatísticas para analisar a distribuição de frequência de dados e técnicas de visualização de dados.
+ # 
+
+ ## Referências:
+
+<a href="https://www.sheffield.ac.uk/polopoly_fs/1.937185!/file/Birthweight_reduced_kg_R.csv" target='_blank'>University of Sheffield</a>
+
+Mathematics and Statistics Help (MASH), University of Sheffield, UK.
  
 
 
